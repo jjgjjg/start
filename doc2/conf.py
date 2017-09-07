@@ -18,7 +18,7 @@
 #
 import os
 import sys
-import javasphinx
+
 sys.path.insert(0, os.path.abspath('..'))
 
 
