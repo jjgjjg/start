@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to java_project's documentation!
-========================================
+==========================================
 
 .. toctree::
    :maxdepth: 2
