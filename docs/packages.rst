@@ -4,6 +4,6 @@ Javadoc
 .. toctree::
    :maxdepth: 2
 
-   st/hello
-   st/data
+   st/package-index
+   st1/package-index
 

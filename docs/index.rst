@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to my_java's documentation!
+자바 api 가이드
 ===================================
 
 .. toctree::
@@ -17,11 +17,10 @@ Welcome to my_java's documentation!
 무엇이 들어 있을까요?
 -----------------------
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
  
-   st/hello
-   st/data
-
+   
+   packages
 
 Indices and tables
 ==================
