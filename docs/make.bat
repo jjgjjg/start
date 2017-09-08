@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=java_project
+set SPHINXPROJ=my_java
 
 if "%1" == "" goto help
 

@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = java_project
+SPHINXPROJ    = my_java
 SOURCEDIR     = .
 BUILDDIR      = _build
 
